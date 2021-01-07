@@ -1,0 +1,7 @@
+cd
+git clone https://github.com/Cshivmanmeetsingh/www.git
+cd www
+unzip /Public/www.zip 
+nano config.toml
+
+hugo
